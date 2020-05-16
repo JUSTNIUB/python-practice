@@ -32,4 +32,3 @@ def testArg3(keyArgs,reqArgs='hello'):
     return
 
 testArg3('nono')
-def testArg4(keyArgs,regArgs = '')
